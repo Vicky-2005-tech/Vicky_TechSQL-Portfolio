@@ -142,7 +142,7 @@ Due_Date	DATE
 
  Bills Table
 
- Final Query Result
+ [https://github.com/Vicky-2005-tech/Vicky_TechSQL-Portfolio/blob/main/Data%20Definition%20Language%20%26%20Query.sql]--Contains all queries used in the project
 
 . Learning Points
 - Database design for hospital management systems
