@@ -52,7 +52,7 @@ Discovered our loyal customers
 Highlighted key customer segments and regions driving sales growth.
 
 
-[Ecommerce_Sales_ Analysis] (https://github.com/okaforvictoria/okaforvictoriaportfolio) – Contains all the SQL queries used in this project.
+[Ecommerce_Sales_ Analysis] (https://github.com/Vicky-2005-tech/Vicky_TechSQL-Portfolio/blob/main/Okafor%20Victoria%20Sql%20Portfolio.sql )– Contains all the SQL queries used in this project.
 
   ## Recommendations
  -The team shoould add a female related product cateogory and little incentives(gift or discounts) to balance the sales by gender.
